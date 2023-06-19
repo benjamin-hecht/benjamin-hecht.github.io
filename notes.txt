@@ -1,0 +1,19 @@
+Colour scheme A:
+#F2D88D (beige)
+#824533 (dark brown)
+#75825A (sage)
+#C95E2F (brown)
+
+Colour scheme B:
+#698269 (sage)
+#B99B6B (brown)
+#F1DBBF (beige)
+#AA5656 (maroon)
+https://colorhunt.co/palette/698269b99b6bf1dbbfaa5656
+
+Colour scheme C:
+#E5D9B6 (beige)
+#A4BE7B (light green)
+#5F8D4E (medium green)
+#285430 (dark green)
+https://colorhunt.co/palette/e5d9b6a4be7b5f8d4e285430
