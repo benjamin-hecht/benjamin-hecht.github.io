@@ -3,25 +3,29 @@
     src: url('./fonts/JosefinSans-Regular.ttf') format('truetype');
 }
 
+html {
+    font-size: 16px;
+}
+
 h1 {
-    margin: 32px;
+    margin: 2rem;
 }
 
 section {
-    border: solid black 1px;
-    padding: 8px;
-    margin: 32px
+    border: solid black 0.0625rem;
+    padding: 0.5rem;
+    margin: 2rem
 }
 
 h2 {
-    margin: 4px;
-    font-size: 32px;
+    margin: 0.25rem;
+    font-size: 2rem;
 }
 
 .color {
     display: inline-block;
-    padding: 8px;
-    margin: 8px;
+    padding: 0.5rem;
+    margin: 0.5rem;
 }
 
 #dark-green {
@@ -68,12 +72,12 @@ h2 {
 
 .font-h3 {
     text-decoration: underline;
-    font-size: 16px;
+    font-size: 1rem;
 }
 
 #text-styles h3 {
-    padding: 8px;
-    margin: 8px;
+    padding: 0.5rem;
+    margin: 0.5rem;
 }
 
 #h1-demo {
