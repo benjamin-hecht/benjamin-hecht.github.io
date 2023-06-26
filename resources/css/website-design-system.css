@@ -23,7 +23,7 @@ h2 {
 }
 
 nav {
-    background-color: black;
+    background-color: #285430;
 }
 
 nav ul li {
@@ -33,6 +33,10 @@ nav ul li {
     padding: 0.5rem;
     margin-left: 1rem;
     margin-right: 1rem;
+}
+
+nav ul li a {
+    color: white;
 }
 
 .color {
